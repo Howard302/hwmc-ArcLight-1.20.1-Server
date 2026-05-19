@@ -25,6 +25,7 @@ logs/
 crash-reports/
 
 # 缓存与临时文件
+.arclight/class_cache/
 cache/
 tmp/
 # 地图数据（不想公开就保留，想分享给别人可以删掉）
