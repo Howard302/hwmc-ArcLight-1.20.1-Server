@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.162.214.119
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1779015544776
+  login: 1779015369473
+money: '0'
+last-account-name: Leozjp
+logoutlocation:
+  world: dc382987-752a-47fb-9aad-fac4f111daf2
+  world-name: sc1
+  x: 11.650534375728588
+  y: 70.0
+  z: 82.24530559323934
+  yaw: 172.04995727539062
+  pitch: 12.149965286254883

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.162.214.119
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1779014845753
+  login: 1779014427730
+money: '0'
+last-account-name: zjpleo
+logoutlocation:
+  world: dc382987-752a-47fb-9aad-fac4f111daf2
+  world-name: sc1
+  x: 0.9101771166884604
+  y: 70.0
+  z: 59.73762325706414
+  yaw: -91.76547241210938
+  pitch: 29.70046043395996

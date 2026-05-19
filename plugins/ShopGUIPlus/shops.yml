@@ -1,0 +1,23 @@
+shops:
+  vip_shop:
+    name: "&6&lVIP特权"
+    rows: 3
+    command: "vip"
+    items:
+      vip_perm:
+        slot: 13
+        material: GOLDEN_CARROT
+        name: "&6&l永久VIP"
+        lore:
+          - "&7购买后永久获得VIP特权"
+          - "&7▸ 金色称号前缀：[尊贵VIP]"
+          - "&7▸ 解锁 /fly 飞行权限"
+          - "&7▸ 解锁 /workbench 随身工作台"
+          - "&b价格：&6500点券"
+        price:
+          type: playerpoints
+          amount: 500
+        buy-commands:
+          - "lp user %player% parent add vip"
+          - "tell %player% &a购买成功！已获得永久VIP特权！"
+          - "broadcast &e玩家 %player% 购买了永久VIP！"

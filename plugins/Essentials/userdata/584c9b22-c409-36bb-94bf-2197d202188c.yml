@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 36.106.142.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1778999062707
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1779001976411
+  login: 1779001266515
+money: '10000000000000'
+last-account-name: Howard_NotFound
+logoutlocation:
+  world: 42b19698-d52c-40da-90b8-546042cbc907
+  world-name: 虚空世界
+  x: 97.36913328060092
+  y: 154.8992051137916
+  z: -204.15976347232652
+  yaw: 6.30187463760376
+  pitch: 51.29996109008789
+lastlocation:
+  world: 42b19698-d52c-40da-90b8-546042cbc907
+  world-name: 虚空世界
+  x: 0.5
+  y: -333.80025940559426
+  z: 0.5
+  yaw: 148.94989013671875
+  pitch: -19.950002670288086
