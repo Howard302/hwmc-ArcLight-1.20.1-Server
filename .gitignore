@@ -29,6 +29,7 @@ cache/
 tmp/
 # 地图数据（不想公开就保留，想分享给别人可以删掉）
 world/
+plugins/
 
 # 运行生成文件
 session.lock

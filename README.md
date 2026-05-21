@@ -1,5 +1,6 @@
 # hwmc-ArcLight-1.20.1-Server
 hwmc 服务器的 1.20.1 ArcLight 混合服务端全套文件，支持 Forge + Bukkit/Spigot 插件同时运行。
+为了不违反部分mod的使用协议，未将mod文件夹开源。谢谢理解
 
 ---
 
