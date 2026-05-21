@@ -1,0 +1,14 @@
+name: 新功能建议
+description: 提交一个新功能需求
+title: "[Feature] "
+labels:
+  - 新功能
+  - 等待验证
+body:
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: 功能描述
+      placeholder: 你希望增加什么功能？
+    validations:
+      required: true

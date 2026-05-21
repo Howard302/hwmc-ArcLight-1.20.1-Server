@@ -1,0 +1,14 @@
+name: Bug 反馈
+description: 提交一个 Bug
+title: "[Bug] "
+labels:
+  - bug
+  - ·等待验证
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 发生了什么？
+      placeholder: 描述 Bug 现象
+    validations:
+      required: true
